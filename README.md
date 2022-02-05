@@ -1,6 +1,6 @@
 # Shock Tubes using Finite Volume Methods By MATLAB
 
-A first-order (in both space and time) One-dimensional finite volume solver to simulate a shock tube using the Roe scheme with the Entropy fix.
+A first-order (in both space and time) one-dimensional finite volume solver to simulate a shock tube using the Roe scheme with the Entropy fix.
 
 The density, velocity, and pressure distributions at N=80, 160, 320,640, and 2000 respectively are obtained.
 The resolution of the expansion fan, contact discontinuity, and shock increases as the level of mesh refinement increases. Contact discontinuities (surfaces that separate zones of different density and temperature) becomes sharper as N increases. The expansion fan becomes sharper too. The shock become sharp and its distance decreases as N increases.
