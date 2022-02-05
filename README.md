@@ -1,4 +1,4 @@
-# Shock Tubes using Finite Volume Methods
+# Shock Tubes using Finite Volume Methods By MATLAB
 
 One-dimensional finite volume solver to simulate a shock tube using the Roe scheme.
 A first-order (in both space and time) one-dimensional finite volume scheme to solve shock-tube
