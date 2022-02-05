@@ -5,7 +5,7 @@ A first-order (in both space and time) One-dimensional finite volume solver to s
 The density, velocity, and pressure distributions at N=80, 160, 320,640, and 2000 respectively are obtained.
 The resolution of the expansion fan, contact discontinuity, and shock increases as the level of mesh refinement increases. Contact discontinuities (surfaces that separate zones of different density and temperature) becomes sharper as N increases. The expansion fan becomes sharper too. The shock become sharp and its distance decreases as N increases.
 
-**Figure 1: The density, velocity, and pressure distributions at N=2000.**
+**Figure 1: The density, velocity, pressure, and energy distributions at N=2000.**
 
 **Figure 1 (a):** ![image](https://user-images.githubusercontent.com/89004966/152659958-a77a1f4d-99aa-4df6-84ab-58600bfc3b93.png)
 
